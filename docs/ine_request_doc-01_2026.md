@@ -108,4 +108,4 @@ If official sources unavailable after clarification:
 
 ---
 
-*Document updated: January 2025*
+*Document updated: January 2026*
