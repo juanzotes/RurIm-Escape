@@ -29,6 +29,7 @@ Zoom into recent years to detect neo-rural migration signals potentially linked 
 | **Visualization** | Matplotlib, Seaborn, Folium, Plotly *(interactive maps - local development)* |
 | **Database** | PostgreSQL/PostGIS *(planned)* |
 | **Workflow** | Jupyter Lab, Conda environments, Git/GitHub |
+| **Development** | Python 3.11 + (Jupyter Lab + local scripts for resource-intensive visualizations) |
 
 
 ✅ Completed Work
