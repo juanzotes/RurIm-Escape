@@ -1,19 +1,24 @@
 # RurIm Escape [Early Stage Research]
-Municipal-scale Demographic Analysis of Rural Spain (1996–2024)
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-
-⚠️ Project Status: Core demographic analysis complete. Socioeconomic variable integration and land cover analysis in progress.
+*Municipal-scale Demographic Analysis of Rural Spain (1996–2024)*
 
 
-📋 Project Overview
+⚠️  **Project Status:** Core demographic analysis complete. Integration of socioeconomic, service accessibility, and agricultural variables in progress. Land cover analysis awaiting Corine 2024 release.
+
+##📋 Project Overview
 RurIm Escape investigates demographic shifts in Spanish rural municipalities and their potential relationship with land use changes. This repository contains the demographic analysis pipeline for a larger research project examining neo-rural migration patterns accelerated by remote work adoption post-COVID-19.
-Current Research Questions
 
-Which Spanish municipalities experienced significant population growth between 1996 and 2024?
-What are the demographic characteristics (sex ratio, density) of these municipalities?
-[Future] How do these demographic shifts correlate with land use changes?
+**Research Design: Two-Scale Temporal Analysis**
+**Phase 1 - Macro-temporal Context (1996–2024):**
+Establish baseline demographic trends over 28 years to identify long-term patterns of rural depopulation and repopulation.
+**Phase 2 - Focal Period Analysis (2018–2024):**
+Zoom into recent years to detect neo-rural migration signals potentially linked to COVID-19 pandemic and remote work normalization.
+
+**Current Research Questions**
+1. Which Spanish municipalities experienced significant population growth across the full 28-year period (1996–2024)?
+2. Do these municipalities show accelerated growth in the recent period (2018–2024) compared to historical trends?
+3. What are the demographic characteristics (sex ratio, density, age structure) of repopulation hotspots?
+4. [Future] How do demographic shifts correlate with changes in service accessibility, economic conditions, and agricultural structure?
+5. [Future] Can land use changes (2018–2024) be detected and linked to these multivariate socioeconomic patterns?
 
 
 🛠️ Technical Stack
@@ -73,12 +78,36 @@ Notebook: 03_sex_ratio_and_density.ipynb
 🚧 In Progress
 Data Integration (Pending INE Response)
 Status: Data request submitted January 2025
-Expected Variables (40+):
+Expected Variables (40+) across 4 categories:
 
-Demographic: Age distribution, foreign population percentage, average age
-Economic: Household income, unemployment rates, affiliation rates
-Agricultural: Farm counts, land use (SAU), livestock numbers, farm size distribution
-Services: Hospital/school access times, internet coverage
+Demographic Data:
+
+Age distribution (mean age, % ≥65 years)
+Foreign vs. autochthonous population percentages
+
+
+Economic & Labor Data:
+
+Average household income evolution
+Affiliation, unemployment, and retirement rates (per 1,000 inhabitants)
+
+
+Service Accessibility:
+
+Access times to highways/hospitals
+Number of pharmacies and primary schools
+Internet coverage (≥30 Mbps, ≥100 Mbps)
+
+
+Agricultural & Livestock Data:
+
+Farm operation counts (agricultural, livestock)
+Utilized Agricultural Area (UAA/SAU) and land use distribution
+Livestock numbers by type (cattle, sheep, pigs, poultry)
+Farm structure (size, tenure, holder demographics)
+CAP subsidies, irrigation, organic farming
+
+
 
 Documentation: data_request_ine.md
 Integration Plan:
@@ -180,8 +209,6 @@ Territorial Planning: Evidence-based policies for neo-rural integration
 Environmental Monitoring: Land use impacts of demographic shifts
 Agricultural Policy: Understanding farm expansion/abandonment drivers
 Climate Adaptation: Rural areas as climate migration destinations
-
-
 👨‍🔬 Author
 Juan Zotes
 GIS Research Analyst | Environmental Scientist and Geographer
