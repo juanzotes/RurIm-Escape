@@ -60,9 +60,9 @@ Municipal-level socioeconomic and agricultural data for territorial and demograp
 - Farm holder demographics (age, sex, distribution)
 - Operations with family vs. hired labor
 - Operations with CAP subsidies, irrigation, organic certification
+- Livestock farming typology by municipality (extensive, semi-extensive, intensive)
 
-**Note:** Many agricultural variables from Census Agrario (2009, 2020) - sparse temporal coverage expected.
-
+Note: Many agricultural variables from Agricultural Census (2009, 2020) - sparse temporal coverage expected.
 ---
 
 ## Data Integration Plan
