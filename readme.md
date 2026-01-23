@@ -1,5 +1,5 @@
 # RurIm Escape [Early Stage Research]
-### *Municipal-scale Demographic Analysis of Rural Spain (1996–2024)*
+### *Geospatial Analysis of Neo-Rural Migration and Land Use Change in Spain (1996–2024)*
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![GeoPandas](https://img.shields.io/badge/GeoPandas-Latest-green.svg)](https://geopandas.org/)
