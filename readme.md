@@ -292,4 +292,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-*Last updated: January 2025 | Project initiated: November 2024*
+*Last updated: January 2026 | Project initiated: December 2025*
