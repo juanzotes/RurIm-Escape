@@ -288,7 +288,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - **Research Group:** [ADAPTA (Socio-Ecological Systems, Landscape and Rural Development)](https://www.ucm.es/ecologia/sistemas-socioecologicos,-paisaje-y-desarrollo-local) 
 - **Universidad Complutense de Madrid** - Research support
 - **Instituto Nacional de Estadística (INE)** - Historical census data
-- **University of Helsinki** - Geo-Python &Cristina Herrero Jaúregui
+- **University of Helsinki** - Geo-Python & Automating GIS Processes
 
 ---
 
