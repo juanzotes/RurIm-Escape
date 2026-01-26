@@ -271,7 +271,7 @@ This research framework can inform:
 GIS Research Analyst | Environmental Scientist  
 Complutense University of Madrid
 
-[LinkedIn](https://www.linkedin.com/in/juan-zotes) | [Email](mailto:jzotes01@ucm.es) or [Email](mailto:juanzotes@gmail.es)
+[LinkedIn](https://www.linkedin.com/in/juan-zotes) | [Email (Work)](mailto:jzotes01@ucm.es) | [Email (Personal)](mailto:juanzotes@gmail.es)
 
 *Specializing in geospatial analysis, ecosystem restoration, landscape ecology and biodiversity. Open to opportunities in biodiversity analytics, climate tech, and sustainable finance.*
 
