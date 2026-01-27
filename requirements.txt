@@ -1,0 +1,15 @@
+numpy
+pandas
+geopandas
+shapely
+pyproj
+fiona
+matplotlib
+seaborn
+plotly
+folium
+contextily
+geopy
+osmnx
+rasterio
+scipy
